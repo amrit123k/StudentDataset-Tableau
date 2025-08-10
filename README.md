@@ -25,3 +25,6 @@ Using Python in Jupyter Notebook for data cleaning and Tableau for visualization
   - Jupyter Notebook
   - Pandas
   - Tableau
+
+# Tableau Public Dashboard
+https://public.tableau.com/app/profile/amrit.kumar3166/viz/StudentDataset_17547923227940/Dashboard1?publish=yes
